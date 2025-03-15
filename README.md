@@ -1,4 +1,3 @@
-```md
 # Social Deduction Game
 
 A multiplayer social deduction game inspired by "Among Us," where players take on roles as crewmates or imposters, navigating different maps and strategizing to win.
