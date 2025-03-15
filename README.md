@@ -28,8 +28,8 @@ A multiplayer social deduction game inspired by "Among Us," where players take o
 - Implement additional game mechanics (tasks, voting system)
 - Enhance UI for better user experience
 
-## Contributing
-Feel free to fork this repository, create a feature branch, and submit a pull request!
+## Contact
+For any questions, please reach out to dineshsai841@gmail.com.
 
 ## License
 This project is licensed under the MIT License.
